@@ -6,7 +6,7 @@
 
 > Yes, of course we all are athletics. We surf the internet everyday!
 <br>
-SurfGuard is a plugin for browsers which helps you surf the internet waves safely and securely. It thoroughly analyzes the site you are on and tells you whether it is safe to surf or not. The analysis is done by our custom made SurfGuard API which uses ML model having over 92.79% accuracy on training data and 92.67% accuracy on testing data.
+SurfGuard is a plugin for browsers which helps you surf the internet waves safely and securely. It thoroughly analyzes the site you are on and tells you whether it is safe to surf or not. The analysis is done by our custom made [SurfGuardAPI](https://github.com/notsanidhyak/SurfGuardAPI) which uses ML model having over 92.79% accuracy on training data and 92.67% accuracy on testing data.
 
 <br>
 <br>
@@ -14,9 +14,9 @@ SurfGuard is a plugin for browsers which helps you surf the internet waves safel
 ### 🤝 How to Contibute?
 <br>
 
-- Take a look at the Existing [Issues](https://github.com/notsanidhyak/SurfGuard-Chrome/issues) or create your own Issues!
+- Take a look at the Existing [issues](https://github.com/notsanidhyak/SurfGuard-Chrome/issues) or create your own issues!
 - Wait for the Issue to be assigned to you.
-- Fork the repository
+- Fork the repository.
 - Clone your forked copy of the project.
 <br>
 
@@ -55,6 +55,6 @@ git clone --depth 1 https://github.com/<your_user_name>/SurfGuard-Chrome.git
 ### ❤️ Feedback
 <br>
 
-If you have any feedback or suggestions please reach out to the project admin [sanidhyak](https://github.com/notsanidhyak) or you can create a [issue](https://github.com/notsanidhyak/SurfGuard-Chrome/issues) and mention there which new features can be added to make SurfGuard better.
+If you have any feedback or suggestions please reach out to the project admin [sanidhyak](https://github.com/notsanidhyak) or you can create an [issue](https://github.com/notsanidhyak/SurfGuard-Chrome/issues) and mention there which new features can be added to make SurfGuard better.
 
 
