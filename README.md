@@ -28,7 +28,7 @@ git clone --depth 1 https://github.com/<your_user_name>/SurfGuard-Chrome.git
 
 <br>
 
-- Using SurfGuard on a legitimate webiste like stackoverflow -
+- Using SurfGuard on a legitimate website like stackoverflow -
 <br>
 
 ![Screenshot (693)](https://github.com/notsanidhyak/SurfGuard-Chrome/assets/86651116/c6b1b76c-8231-49d7-b246-ad33df9e3405)
@@ -37,7 +37,7 @@ git clone --depth 1 https://github.com/<your_user_name>/SurfGuard-Chrome.git
 
 <br>
 
-- Using SurfGuard on a webiste which seems phishy -
+- Using SurfGuard on a website which seems phishy -
 <br>
 
 ![Screenshot (691)](https://github.com/notsanidhyak/SurfGuard-Chrome/assets/86651116/c4156a1d-f185-434c-81a5-efe1ff9cd84b)
