@@ -16,7 +16,7 @@ SURFGUARD is a plugin for browsers which helps you surf the internet waves safel
 <br>
 
 - Take a look at the Existing [issues](https://github.com/notsanidhyak/SurfGuard-Chrome/issues) or create your own issues!
-- Wait for the Issue to be assigned to you.
+- Wait for the issue to be assigned to you.
 - Fork the repository.
 - Clone your forked copy of the project.
 <br>
