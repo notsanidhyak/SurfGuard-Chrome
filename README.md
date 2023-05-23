@@ -1,3 +1,6 @@
+![SurfGuardBanner](https://github.com/notsanidhyak/SurfGuard-Chrome/assets/86651116/58c502ca-e819-4d03-a7bf-909508edca29)
+
+
 # SurfGuard - Browser Plugin
 <br>
 
