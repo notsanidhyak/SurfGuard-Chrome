@@ -25,6 +25,8 @@ SURFGUARD is a plugin for browsers which helps you surf the internet waves safel
 git clone --depth 1 https://github.com/<your_user_name>/SurfGuard-Chrome.git
 ```
 
+<br>
+
 ### 📸 Screenshots
 
 <br>
