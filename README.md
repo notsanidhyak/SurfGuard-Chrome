@@ -11,7 +11,7 @@ SURFGUARD is a plugin for browsers which helps you surf the internet waves safel
 
 <br>
 
-### ⚡ Use this plugin
+### ⚡ Use this Plugin
 <br>
 
 > For Firefox Browser [Click Here](https://addons.mozilla.org/en-US/firefox/addon/surfguard/)
