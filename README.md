@@ -14,8 +14,9 @@ SURFGUARD is a plugin for browsers which helps you surf the internet waves safel
 ### ⚡ Use this Plugin
 <br>
 
-> For Firefox Browser [Click Here](https://addons.mozilla.org/en-US/firefox/addon/surfguard/)
-> For Edge Browser [Click Here](https://microsoftedge.microsoft.com/addons/detail/surfguard/lmnkefihkdaalahabdhiekneociikekl)
+> For Firefox Browser [Click Here](https://addons.mozilla.org/en-US/firefox/addon/surfguard/) <p>
+> For Edge Browser [Click Here](https://microsoftedge.microsoft.com/addons/detail/surfguard/lmnkefihkdaalahabdhiekneociikekl) <p>
+> For Opera Browser [Available only on Opera Next & Opera Developer]
 
 <br>
 
