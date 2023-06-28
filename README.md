@@ -12,7 +12,7 @@ SURFGUARD is a plugin for browsers which helps you surf the internet waves safel
 <br>
 
 > View API created and the ML model used [here](https://github.com/notsanidhyak/SurfGuardAPI) <p>
-> View Notebook [here](https://github.com/notsanidhyak/SurfGuardAPI/blob/main/SurfGuard.ipynb)
+> View notebook [here](https://github.com/notsanidhyak/SurfGuardAPI/blob/main/SurfGuard.ipynb)
 
 <br>
 
