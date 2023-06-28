@@ -1,0 +1,9 @@
+BeautifulSoup4
+uvicorn
+requests
+googlesearch-python
+python-whois
+numpy
+scikit-learn
+fastapi
+gunicorn
