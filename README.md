@@ -4,7 +4,7 @@
 # SURFGUARD - Browser Plugin
 <br>
 
-> Yes, of course we all are athletics. We surf the internet everyday!
+> Yes, of course we all are athletics. We surf the internet everyday! 
 <br>
 
 SURFGUARD is a plugin for browsers which helps you surf the internet waves safely and securely. It thoroughly analyzes the site you are on and tells you whether it is safe to surf or not. The analysis is done by our custom made [SurfGuardAPI](https://github.com/notsanidhyak/SurfGuardAPI) which uses ML model having over 92.79% accuracy on training data and 92.67% accuracy on testing data.
